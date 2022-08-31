@@ -1,0 +1,16 @@
+.heading {
+    border:1px solid red;
+    background-color:#D18C1D;
+    padding:10px;
+}
+.para {
+    width:600px;
+    height:400px;
+    background-color: aqua;
+    border:2px dotted black;
+    background-color: #D1D631;
+}
+.links {
+    background-color: #A1A1A1;
+    border-bottom:3px dashed blue;
+}
